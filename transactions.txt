@@ -1,0 +1,5 @@
+Savings Account created with balance: $500.0
+Deposit successful. New Balance: $520.0
+Interest added: $20.0
+Deposit successful. New Balance: $80520.0
+Exiting banking system.
